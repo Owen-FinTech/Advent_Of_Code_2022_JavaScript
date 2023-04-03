@@ -1,4 +1,4 @@
-let inputString = `` // Insert your puzzle input between the backticks
+let inputString = ``; // Insert your puzzle input between the backticks
 
 let puzzleInput = inputString.split('\n\n');
 
